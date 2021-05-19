@@ -40,7 +40,7 @@ nbclient @ file:///home/conda/feedstock_root/build_artifacts/nbclient_1614336084
 nbconvert @ file:///D:/bld/nbconvert_1605402041690/work
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1617383142101/work
 nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1617163391303/work
-notebook @ file:///C:/ci/notebook_1616443715883/work
+notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1621259862661/work
 numpy @ file:///D:/bld/numpy_1616933441329/work
 olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1612459636436/work
@@ -65,8 +65,6 @@ pyrsistent @ file:///D:/bld/pyrsistent_1610147004705/work
 PySocks==1.7.1
 python-dateutil==2.8.1
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
-pywin32==300
-
 pyzmq @ file:///D:/bld/pyzmq_1614611907285/work
 requests==2.25.1
 scikit-learn @ file:///D:/bld/scikit-learn_1619628780927/work
@@ -74,7 +72,7 @@ scipy @ file:///C:/bld/scipy_1619562091939/work
 Send2Trash==1.5.0
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 sniffio @ file:///D:/bld/sniffio_1610318539925/work
-terminado @ file:///D:/bld/terminado_1617048799047/work
+terminado @ file:///D:/bld/terminado_1620873200189/work
 testpath @ file:///home/conda/feedstock_root/build_artifacts/testpath_1621261527237/work
 threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
 tornado @ file:///D:/bld/tornado_1610094858390/work
