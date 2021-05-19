@@ -33,8 +33,6 @@ Fiona==1.8.4
 Flask==1.1.1
 Flask-Cors==3.0.8
 gast==0.3.3
-GDAL==2.3.3
-gekko==0.2.6
 geojson==2.5.0
 geopandas==0.4.0
 google-auth==1.30.0
