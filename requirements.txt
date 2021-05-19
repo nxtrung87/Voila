@@ -105,10 +105,10 @@ pynacl==1.4.0
 pyOpenSSL==20.0.1
 pyowm==3.2.0
 pyparsing==2.4.7 
-pyqt5sip==4.19.18 
-pyqt==5.12.3 
+
+
 pyrsistent==0.17.3 
-pysocks==1.7.1
+PySocks==1.7.1
 python-abi==3.7.10
 python==3.7.10
 python-dateutil==2.8.1
