@@ -66,7 +66,7 @@ PySocks==1.7.1
 python-dateutil==2.8.1
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
 pywin32==300
-pywinpty @ file:///D:/bld/pywinpty_1621378602539/work/target/wheels/pywinpty-1.1.1-cp38-none-win_amd64.whl
+
 pyzmq @ file:///D:/bld/pyzmq_1614611907285/work
 requests==2.25.1
 scikit-learn @ file:///D:/bld/scikit-learn_1619628780927/work
