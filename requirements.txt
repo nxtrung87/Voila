@@ -5,3 +5,4 @@ pygments
 pandas
 paramiko
 scikit-learn
+pyowm
