@@ -1,5 +1,7 @@
 voila
 voila-material
 matplotlib
-pygments==2.9.0
+pygments
 pandas
+paramiko
+scikit-learn
