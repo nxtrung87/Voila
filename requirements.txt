@@ -1,8 +1,7 @@
 voila
 voila-material
-matplotlib
-pygments
-pandas
+bqplot
+pyowm
 paramiko
 scikit-learn
-pyowm
+matplotlib
