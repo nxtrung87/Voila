@@ -3,6 +3,7 @@ voila-material
 bqplot
 pyowm
 paramiko
+pytables 
 scikit-learn
 matplotlib
 https://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp37-cp37m-linux_x86_64.whl
