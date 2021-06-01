@@ -5,3 +5,5 @@ pyowm
 paramiko
 scikit-learn
 matplotlib
+pytorch
+pvlib
